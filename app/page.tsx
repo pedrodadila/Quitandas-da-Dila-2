@@ -33,6 +33,7 @@ export default function Home() {
         <nav className="topo__nav" aria-label="Seções">
           <a href="#linha-mineira">Pão de Queijo</a>
           <a href="#sob-encomenda">Sob encomenda</a>
+          <a href="/como-assar">Como assar</a>
           <a href="#encomendar">Onde retirar</a>
         </nav>
         <a className="qd-botao qd-botao--primario topo__cta" href={LIGAR_URL}>
